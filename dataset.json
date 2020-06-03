@@ -1,0 +1,43 @@
+[{
+        "pair": "LTC/BTC",
+        "volume 24h": "10 953.97 LTC",
+        "last price": "0.00486580 BTC",
+        "change 24h": "1.71%",
+        "trade link": "https://www.livecoin.net/en/trading/LTC_BTC"
+    },
+    {
+        "pair": "LTC/USD",
+        "volume 24h": "1 985.76 LTC",
+        "last price": "46.10300 USD",
+        "change 24h": "3.25%",
+        "trade link": "https://www.livecoin.net/en/trading/LTC_USD"
+    },
+    {
+        "pair": "LTC/USDT",
+        "volume 24h": "0.25 LTC",
+        "last price": "46.00000000 USDT",
+        "change 24h": "0%",
+        "trade link": "https://www.livecoin.net/en/trading/LTC_USDT"
+    },
+    {
+        "pair": "DIG/LTC",
+        "volume 24h": "0.00 LTC",
+        "last price": "0.00000001 LTC",
+        "change 24h": "0%",
+        "trade link": "https://www.livecoin.net/en/trading/DIG_LTC"
+    },
+    {
+        "pair": "XSN/LTC",
+        "volume 24h": "0.00 LTC",
+        "last price": "0.00120000 LTC",
+        "change 24h": "0%",
+        "trade link": "https://www.livecoin.net/en/trading/XSN_LTC"
+    },
+    {
+        "pair": "RBM/LTC",
+        "volume 24h": "0.00 LTC",
+        "last price": "0.00000257 LTC",
+        "change 24h": "0%",
+        "trade link": "https://www.livecoin.net/en/trading/RBM_LTC"
+    }
+]
